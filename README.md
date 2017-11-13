@@ -1,5 +1,5 @@
 # Как начать
-- регистрируемся http://52.232.32.105:8080/codenjoy-contest/ пункт 2.Register/Login
+- Регистрируемся http://52.232.32.105:8080/codenjoy-contest/ пункт 2.Register/Login
 - Качаем клиента https://github.com/IzhevskCodeBattle/clients в той технологии которая вам интересна
 - Настраиваем среду для разработки бота 
 - В коде указываем точку подключения на http://52.232.32.105:8080/codenjoy-contest по аналогии примера
